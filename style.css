@@ -112,9 +112,17 @@ span{
 
 /* <-----Second Section End----> */
 
+
+
+.sec3{
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+}
+
 .div5{
      text-align:center ;
-     height: auto;
+     height: 100%;
      width: 100%;
 }
 .art3{
@@ -126,3 +134,28 @@ span{
 .pra3{
     font-size: 20px; 
 }
+
+.sec4{
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+.div6{
+   width: 30%; 
+   margin-left: 5%;
+}
+
+.div7{
+    width: 30%; 
+ }
+
+.div8{
+    width: 30%; 
+    margin-right: 5%;
+ }
+
+ .img1{
+     width: 80%;
+     height: 60%;
+ }
